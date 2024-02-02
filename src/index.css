@@ -1,0 +1,11 @@
+body{
+  background-color: rgb(57, 55, 55);
+  
+}
+
+#PRINCIPAL{
+  background-color: rgba(53, 53, 243, 0.424);
+  padding:5vh ;
+  justify-content: center;
+  align-items: center;
+}
